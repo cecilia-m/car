@@ -80,7 +80,7 @@
     font-size: 15px;
     font-weight: bold; }
   #carros_selec .vehiculos .pasajeros {
-    width: 50px;
+    width: 130px;
     border: 1px solid #ffcc00; }
   #carros_selec .vehiculos .cant_pas {
     padding: 10px 0 0 0 !important; }
