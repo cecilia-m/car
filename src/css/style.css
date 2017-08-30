@@ -98,7 +98,7 @@
   #carros_selec .vehiculos .cant-row {
     padding: 0 !important; }
   #carros_selec .vehiculos .precio {
-    width: 82px; }
+    width: 95px; }
     #carros_selec .vehiculos .precio span {
       display: inline-block;
       color: #ffcc00; }
@@ -106,7 +106,7 @@
       width: 40px;
       display: inline-block;
       color: #ffcc00;
-      font-size: 18px;
+      font-size: 14px;
       font-weight: bold; }
 #carros_selec .selec {
   font-size: 15px;
